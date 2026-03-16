@@ -1,0 +1,7 @@
+{
+  "name": "Gestão Financeira Eclesiástica",
+  "description": "Sistema de relatórios financeiros para instituições, com cálculos automáticos de dízimos, ofertas, despesas fixas (Sede, Prebenda) e Saldo GU.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
